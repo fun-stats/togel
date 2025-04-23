@@ -45,12 +45,12 @@ python3 tebak-nomer.py
 
 ### 📜 **3. Apa yang Dilakukan Skrip Ini?**
 Skrip akan:
-- Menjalankan **100 simulasi** pemilihan acak 100.000 angka (4 digit).
+- Menjalankan **10 simulasi** pemilihan acak 500.000 angka (4 digit).
 - Mengambil **20 angka dengan frekuensi tertinggi** dari setiap iterasi.
 - Membandingkan 20 angka tersebut dengan data historis angka togel Hongkong Pool.
 - Mencetak:
   - Iterasi yang berisi angka cocok (match).
-  - **Winrate (% cocok per 100 iterasi)**.
+  - **Winrate (% cocok per 10 iterasi)**.
   - (Opsional) Menyimpan hasil `top_angka` ke dalam file CSV untuk dianalisis lebih lanjut.
 
 ---
@@ -58,9 +58,9 @@ Skrip akan:
 ### 🗂️ **4. Hasil Output**
 - Di terminal akan muncul informasi seperti:
   ```
-  Iterasi 13 - Cocokan Historis: [('9761', 22)]
-  Jumlah iterasi dengan angka yang cocok: 5 dari 100 iterasi.
-  Winrate: 5.0%
+  Iterasi 9 - Cocokan Historis: [('9761', 22)]
+  Jumlah iterasi dengan angka yang cocok: 1 dari 10 iterasi.
+  Winrate: 10.0%
   ```
 - Jika ada perintah untuk menyimpan file `.csv`, kamu akan melihat file seperti `hasil_top_angka.csv` muncul di direktori skrip tersebut.
 
