@@ -1,3 +1,5 @@
+![Steven Chow](stevenchow.jpg "Dewa Judi")
+
 ### 📁 **1. Persiapan Awal**
 Sebelum menjalankan skrip `tebak-nomer.py`, pastikan kamu sudah:
 
@@ -82,9 +84,9 @@ Metode simulasi Monte Carlo bekerja dengan menghasilkan sejumlah besar percobaan
 
 Secara matematis, perhitungan probabilitas dalam togel dapat dijelaskan melalui rumus distribusi probabilitas untuk setiap angka yang muncul. Misalnya, jika kita memiliki angka 4 digit dengan rentang nilai 0000 hingga 9999, maka setiap angka memiliki probabilitas yang sama untuk muncul, yaitu:
 
-\[
+$$\[
 P(A) = \frac{1}{10000}
-\]
+\]$$
 
 di mana \(P(A)\) adalah probabilitas munculnya angka tertentu dalam satu kali undian, dan 10000 adalah jumlah total kemungkinan angka yang dapat muncul dalam permainan.
 
@@ -92,15 +94,15 @@ Dalam simulasi Monte Carlo, eksperimen dilakukan sebanyak \(N\) kali, di mana se
 
 Sebagai contoh, jika dalam 100.000 simulasi, angka "1943" muncul sebanyak 12 kali, maka frekuensi kemunculannya adalah:
 
-\[
+$$\[
 f_{1943} = \frac{12}{100000} = 0.00012
-\]
+\]$$
 
 Untuk menghitung probabilitas terjadinya kecocokan antara angka yang muncul dalam simulasi dengan angka historis, kita dapat menggunakan rumus probabilitas kondisional:
 
-\[
+$$\[
 P(\text{Cocok}) = \frac{\text{Jumlah angka cocok}}{\text{Jumlah total iterasi}}
-\]
+\]$$
 
 Dengan rumus ini, kita dapat menghitung persentase atau **winrate** dari simulasi yang menghasilkan angka yang sesuai dengan data historis, seperti yang akan diperlihatkan dalam bagian hasil analisis.
 
