@@ -259,3 +259,22 @@ Sebagai seorang pendidik dan analis, Steven telah berkontribusi dalam beberapa j
 Melalui pendekatan yang ilmiah dan edukatif, Steven Chow berharap analisis seperti ini dapat **membuka wawasan masyarakat**, khususnya di Indonesia, bahwa segala bentuk perjudian tanpa pemahaman mendalam justru menjadi **perangkap finansial dan sosial**, bukan jalan pintas menuju kekayaan.
 
 ---
+## 📜 Terms and Conditions (Syarat dan Ketentuan)
+
+1. **Tujuan Hiburan dan Edukasi**  
+   Seluruh kode program, analisis statistik, dan dokumen yang disediakan dalam repositori ini disusun semata-mata untuk **tujuan hiburan**, **edukasi statistik**, dan **demonstrasi simulasi probabilistik**.
+
+2. **Tidak Mendorong Perjudian**  
+   Penulis tidak bertanggung jawab atas penggunaan materi ini untuk aktivitas perjudian dalam bentuk apa pun. Konten ini **tidak dimaksudkan untuk mendorong, mempromosikan, atau membenarkan tindakan berjudi**, baik secara langsung maupun tidak langsung.
+
+3. **Risiko Penggunaan**  
+   Setiap individu yang menggunakan kode, data, atau interpretasi hasil dari dokumen ini **bertanggung jawab sepenuhnya atas tindakan mereka sendiri**. Penulis tidak bertanggung jawab atas kerugian, kecanduan, atau masalah sosial yang timbul akibat penyalahgunaan konten ini.
+
+4. **Hak Cipta dan Lisensi**  
+   Seluruh kode sumber berada di bawah lisensi MIT (jika kamu ingin), yang berarti bebas digunakan, dimodifikasi, dan didistribusikan dengan syarat mencantumkan atribusi kepada penulis asli.
+
+5. **Atribusi**  
+   Konten ditulis oleh **Steven Chow**, seorang analis matematika dengan minat dalam probabilitas dan simulasi. Penyebutan nama "Dewa Judi" hanya bersifat humoris dan tidak mencerminkan dorongan untuk berjudi.
+
+6. **Konten Tidak Profesional untuk Taruhan**  
+   Analisis statistik ini **bukan panduan profesional** atau prediksi resmi untuk perjudian. Ini hanyalah eksplorasi matematis dari pola dan probabilitas menggunakan pendekatan simulasi Monte Carlo.
